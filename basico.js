@@ -24,6 +24,7 @@ else {
     console.log('X não é maior que zero');
 }
 
+// TODO: switch
 /* ************************************************************************************ */
 //Funções
 function quadrado(a) {
