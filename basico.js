@@ -40,3 +40,4 @@ quadradoFuncaoAnonimo(20) // retorna 400
 /* ************************************************************************************ */
 // PERGUNTAS:
 // 1- Qual a diferença de carregar o conteúdo estaticamente e dinamicamente?
+// 2- Quando devo utilizar array e quando devo utilizar objeto?
