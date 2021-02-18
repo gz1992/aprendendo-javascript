@@ -1,3 +1,5 @@
+dom = 
+
 variavel global = Variável que pode ser acessada de qualquer lugar do (dom)javascript
 
 objeto = Tudo em javascript e um objeto, são coleção de dados e funcionalidades relacionadas, que consistem em diversas variáveis e funções que são chamadas de propriedades e métodos quando estão dentro de objetos
@@ -7,3 +9,5 @@ json =  sintaxe para serialização de objetos, matrizes, números, strings, boo
 array = É um objeto global usado na construção de 'arrays': objetos de alto nível semelhantes a listas.
 
 escopo = É o que determina quais são os dados que podem ser acessados em uma determinada parte do código. O escopo e criado sempre que uma função e definida.
+
+jquery = 
